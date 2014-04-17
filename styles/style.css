@@ -1,0 +1,12 @@
+
+html, body {
+  margin: 5px;
+  font-family: Arial
+}
+
+#instagram {
+  width: 100% ;
+  margin-left: auto ;
+  margin-right: auto ;
+  text-align: center ;
+}
